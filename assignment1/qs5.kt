@@ -1,4 +1,4 @@
-[14:12, 27/06/2024] Kuldeep Naik: fun main() {
+ fun main() {
     val n = 5  
 
     for (i in 1..n) {
